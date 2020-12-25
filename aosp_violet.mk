@@ -32,3 +32,5 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.build.fingerprint=google/redfin/redfin:11/RQ2A.210405.005/7181113:user/release-keys
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
+
+PEX_BUILD_TYPE := OFFICIAL
